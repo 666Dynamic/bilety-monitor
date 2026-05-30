@@ -67,17 +67,17 @@
   },
   "ZNZ_ow_data": {},
   "BKK_HKT_rt_data": {
-    "287929": {
-      "cena": 5499,
-      "nazwa": "Bangkok",
-      "data": "31.10.2026",
-      "flight": "Bangkok KTW - BKK 31/10/2026"
-    },
     "285785": {
       "cena": 5499,
       "nazwa": "Phuket",
       "data": "16.02.2027",
       "flight": "Phuket WAW - HKT 16/02/2027"
+    },
+    "287929": {
+      "cena": 5499,
+      "nazwa": "Bangkok",
+      "data": "31.10.2026",
+      "flight": "Bangkok KTW - BKK 31/10/2026"
     }
   },
   "BKK_HKT_ow_data": {},
