@@ -25,11 +25,11 @@
   },
   "LIR_ow_data": {},
   "PEN_rt_data": {
-    "286332": {
+    "286289": {
       "cena": 5499,
       "nazwa": "Penang",
-      "data": "17.02.2027",
-      "flight": "Penang WAW - PEN 17/02/2027"
+      "data": "02.12.2026",
+      "flight": "Penang WAW - PEN 02/12/2026"
     }
   },
   "PEN_ow_data": {},
@@ -58,26 +58,26 @@
   },
   "CMB_ow_data": {},
   "ZNZ_rt_data": {
-    "287009": {
+    "287094": {
       "cena": 4399,
       "nazwa": "Zanzibar",
       "data": "16.12.2026",
-      "flight": "Zanzibar WAW - ZNZ 16/12/2026"
+      "flight": "Zanzibar POZ - ZNZ 16/12/2026"
     }
   },
   "ZNZ_ow_data": {},
   "BKK_HKT_rt_data": {
-    "287980": {
+    "288007": {
       "cena": 4299,
       "nazwa": "Bangkok",
-      "data": "04.12.2026",
-      "flight": "Bangkok POZ - BKK 04/12/2026"
+      "data": "05.03.2027",
+      "flight": "Bangkok POZ - BKK 05/03/2027"
     },
-    "285754": {
+    "285715": {
       "cena": 5499,
       "nazwa": "Phuket",
-      "data": "03.11.2026",
-      "flight": "Phuket WAW - HKT 03/11/2026"
+      "data": "30.10.2026",
+      "flight": "Phuket KTW - HKT 30/10/2026"
     }
   },
   "BKK_HKT_ow_data": {
