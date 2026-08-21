@@ -8,11 +8,11 @@
     }
   },
   "POP_ow_data": {
-    "289987": {
+    "290004": {
       "cena": 3999,
       "nazwa": "Puerto Plata",
-      "data": "04.03.2027",
-      "flight": "Puerto Plata KTW - POP 04/03/2027"
+      "data": "02.11.2026",
+      "flight": "Puerto Plata WAW - POP 02/11/2026"
     }
   },
   "LIR_rt_data": {
@@ -25,20 +25,20 @@
   },
   "LIR_ow_data": {},
   "PEN_rt_data": {
-    "286332": {
+    "286272": {
       "cena": 5499,
       "nazwa": "Penang",
-      "data": "17.02.2027",
-      "flight": "Penang WAW - PEN 17/02/2027"
+      "data": "04.11.2026",
+      "flight": "Penang WAW - PEN 04/11/2026"
     }
   },
   "PEN_ow_data": {},
   "CUN_PVR_rt_data": {
-    "283721": {
+    "283710": {
       "cena": 4499,
       "nazwa": "Puerto Vallarta",
-      "data": "04.03.2027",
-      "flight": "Puerto Vallarta KTW - PVR 04/03/2027"
+      "data": "17.12.2026",
+      "flight": "Puerto Vallarta KTW - PVR 17/12/2026"
     },
     "288526": {
       "cena": 6599,
@@ -73,11 +73,11 @@
       "data": "05.03.2027",
       "flight": "Bangkok POZ - BKK 05/03/2027"
     },
-    "285784": {
+    "285754": {
       "cena": 5499,
       "nazwa": "Phuket",
-      "data": "16.02.2027",
-      "flight": "Phuket WAW - HKT 16/02/2027"
+      "data": "03.11.2026",
+      "flight": "Phuket WAW - HKT 03/11/2026"
     }
   },
   "BKK_HKT_ow_data": {
@@ -95,19 +95,19 @@
       "data": "22.11.2026",
       "flight": "Phu Quoc POZ - PQC 22/11/2026"
     },
-    "285823": {
+    "285803": {
       "cena": 4950,
       "nazwa": "Ho Chi Minh / Sajgon",
-      "data": "07.12.2026",
-      "flight": "Ho Chi Minh / Sajgon KTW - SGN 07/12/2026"
+      "data": "02.11.2026",
+      "flight": "Ho Chi Minh / Sajgon KTW - SGN 02/11/2026"
     }
   },
   "SGN_PQC_ow_data": {
-    "287474": {
+    "293332": {
       "cena": 4299,
       "nazwa": "Phu Quoc",
-      "data": "01.11.2026",
-      "flight": "Phu Quoc POZ - PQC 01/11/2026"
+      "data": "04.04.2027",
+      "flight": "Phu Quoc POZ - PQC 04/04/2027"
     },
     "285802": {
       "cena": 4499,
