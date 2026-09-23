@@ -1,18 +1,18 @@
 {
   "POP_rt_data": {
-    "290093": {
+    "290073": {
       "cena": 6999,
-      "nazwa": "Puerto Plata",
-      "data": "05.04.2027",
-      "flight": "Puerto Plata WAW - POP 05/04/2027"
-    }
-  },
-  "POP_ow_data": {
-    "290072": {
-      "cena": 3999,
       "nazwa": "Puerto Plata",
       "data": "01.03.2027",
       "flight": "Puerto Plata WAW - POP 01/03/2027"
+    }
+  },
+  "POP_ow_data": {
+    "289971": {
+      "cena": 3999,
+      "nazwa": "Puerto Plata",
+      "data": "04.02.2027",
+      "flight": "Puerto Plata KTW - POP 04/02/2027"
     }
   },
   "LIR_rt_data": {
@@ -25,7 +25,7 @@
   },
   "LIR_ow_data": {},
   "PEN_rt_data": {
-    "286272": {
+    "286273": {
       "cena": 5499,
       "nazwa": "Penang",
       "data": "04.11.2026",
@@ -73,11 +73,11 @@
       "data": "13.11.2026",
       "flight": "Bangkok POZ - BKK 13/11/2026"
     },
-    "285788": {
+    "285752": {
       "cena": 5499,
       "nazwa": "Phuket",
-      "data": "02.03.2027",
-      "flight": "Phuket WAW - HKT 02/03/2027"
+      "data": "05.03.2027",
+      "flight": "Phuket KTW - HKT 05/03/2027"
     }
   },
   "BKK_HKT_ow_data": {
