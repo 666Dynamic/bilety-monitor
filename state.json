@@ -1,6 +1,6 @@
 {
   "POP_rt_data": {
-    "290094": {
+    "290093": {
       "cena": 6999,
       "nazwa": "Puerto Plata",
       "data": "05.04.2027",
@@ -8,11 +8,11 @@
     }
   },
   "POP_ow_data": {
-    "290107": {
+    "289971": {
       "cena": 3999,
       "nazwa": "Puerto Plata",
-      "data": "03.05.2027",
-      "flight": "Puerto Plata WAW - POP 03/05/2027"
+      "data": "04.02.2027",
+      "flight": "Puerto Plata KTW - POP 04/02/2027"
     }
   },
   "LIR_rt_data": {
@@ -25,11 +25,11 @@
   },
   "LIR_ow_data": {},
   "PEN_rt_data": {
-    "286332": {
+    "286289": {
       "cena": 5499,
       "nazwa": "Penang",
-      "data": "17.02.2027",
-      "flight": "Penang WAW - PEN 17/02/2027"
+      "data": "02.12.2026",
+      "flight": "Penang WAW - PEN 02/12/2026"
     }
   },
   "PEN_ow_data": {},
@@ -58,11 +58,11 @@
   },
   "CMB_ow_data": {},
   "ZNZ_rt_data": {
-    "287094": {
+    "286924": {
       "cena": 4399,
       "nazwa": "Zanzibar",
       "data": "16.12.2026",
-      "flight": "Zanzibar POZ - ZNZ 16/12/2026"
+      "flight": "Zanzibar KTW - ZNZ 16/12/2026"
     }
   },
   "ZNZ_ow_data": {},
@@ -89,11 +89,11 @@
     }
   },
   "SGN_PQC_rt_data": {
-    "287547": {
+    "287496": {
       "cena": 3899,
       "nazwa": "Phu Quoc",
-      "data": "07.03.2027",
-      "flight": "Phu Quoc POZ - PQC 07/03/2027"
+      "data": "06.12.2026",
+      "flight": "Phu Quoc POZ - PQC 06/12/2026"
     },
     "285808": {
       "cena": 4849,
@@ -103,11 +103,11 @@
     }
   },
   "SGN_PQC_ow_data": {
-    "287530": {
+    "293332": {
       "cena": 3899,
       "nazwa": "Phu Quoc",
-      "data": "07.02.2027",
-      "flight": "Phu Quoc POZ - PQC 07/02/2027"
+      "data": "04.04.2027",
+      "flight": "Phu Quoc POZ - PQC 04/04/2027"
     },
     "285822": {
       "cena": 4499,
