@@ -47,29 +47,22 @@
       "flight": "Cancun WAW - CUN 08/11/2026"
     }
   },
-  "CUN_PVR_ow_data": {
-    "293384": {
-      "cena": 3499,
-      "nazwa": "Cancun",
-      "data": "13.12.2026",
-      "flight": "Cancun WAW - CUN 13/12/2026"
-    }
-  },
+  "CUN_PVR_ow_data": {},
   "CMB_rt_data": {
-    "287722": {
+    "287766": {
       "cena": 3300,
       "nazwa": "Colombo",
       "data": "05.11.2026",
-      "flight": "Colombo KTW - CMB 05/11/2026"
+      "flight": "Colombo POZ - CMB 05/11/2026"
     }
   },
   "CMB_ow_data": {},
   "ZNZ_rt_data": {
-    "286924": {
+    "287094": {
       "cena": 4399,
       "nazwa": "Zanzibar",
       "data": "16.12.2026",
-      "flight": "Zanzibar KTW - ZNZ 16/12/2026"
+      "flight": "Zanzibar POZ - ZNZ 16/12/2026"
     }
   },
   "ZNZ_ow_data": {},
@@ -80,11 +73,11 @@
       "data": "04.12.2026",
       "flight": "Bangkok POZ - BKK 04/12/2026"
     },
-    "285719": {
+    "285747": {
       "cena": 5499,
       "nazwa": "Phuket",
-      "data": "13.11.2026",
-      "flight": "Phuket KTW - HKT 13/11/2026"
+      "data": "19.02.2027",
+      "flight": "Phuket KTW - HKT 19/02/2027"
     }
   },
   "BKK_HKT_ow_data": {
@@ -110,17 +103,17 @@
     }
   },
   "SGN_PQC_ow_data": {
-    "287546": {
+    "287494": {
       "cena": 3899,
       "nazwa": "Phu Quoc",
-      "data": "07.03.2027",
-      "flight": "Phu Quoc POZ - PQC 07/03/2027"
+      "data": "06.12.2026",
+      "flight": "Phu Quoc POZ - PQC 06/12/2026"
     },
-    "285822": {
+    "285806": {
       "cena": 4499,
       "nazwa": "Ho Chi Minh / Sajgon",
-      "data": "07.12.2026",
-      "flight": "Ho Chi Minh / Sajgon KTW - SGN 07/12/2026"
+      "data": "09.11.2026",
+      "flight": "Ho Chi Minh / Sajgon KTW - SGN 09/11/2026"
     }
   },
   "PMV_rt_data": {},
