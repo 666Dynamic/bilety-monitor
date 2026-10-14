@@ -9,7 +9,7 @@
   },
   "POP_ow_data": {
     "290024": {
-      "cena": 1999,
+      "cena": 2049,
       "nazwa": "Puerto Plata",
       "data": "07.12.2026",
       "flight": "Puerto Plata WAW - POP 07/12/2026"
@@ -56,32 +56,32 @@
     }
   },
   "CMB_rt_data": {
-    "287722": {
+    "287766": {
       "cena": 2999,
       "nazwa": "Colombo",
       "data": "05.11.2026",
-      "flight": "Colombo KTW - CMB 05/11/2026"
+      "flight": "Colombo POZ - CMB 05/11/2026"
     }
   },
   "CMB_ow_data": {},
   "ZNZ_rt_data": {
-    "287094": {
+    "286924": {
       "cena": 4399,
       "nazwa": "Zanzibar",
       "data": "16.12.2026",
-      "flight": "Zanzibar POZ - ZNZ 16/12/2026"
+      "flight": "Zanzibar KTW - ZNZ 16/12/2026"
     }
   },
   "ZNZ_ow_data": {},
   "BKK_HKT_rt_data": {
-    "287976": {
-      "cena": 3699,
+    "287977": {
+      "cena": 3499,
       "nazwa": "Bangkok",
       "data": "20.11.2026",
       "flight": "Bangkok POZ - BKK 20/11/2026"
     },
     "285761": {
-      "cena": 5499,
+      "cena": 5099,
       "nazwa": "Phuket",
       "data": "24.11.2026",
       "flight": "Phuket WAW - HKT 24/11/2026"
@@ -102,25 +102,25 @@
       "data": "06.12.2026",
       "flight": "Phu Quoc POZ - PQC 06/12/2026"
     },
-    "285807": {
-      "cena": 4849,
+    "285816": {
+      "cena": 4599,
       "nazwa": "Ho Chi Minh / Sajgon",
-      "data": "09.11.2026",
-      "flight": "Ho Chi Minh / Sajgon KTW - SGN 09/11/2026"
+      "data": "23.11.2026",
+      "flight": "Ho Chi Minh / Sajgon KTW - SGN 23/11/2026"
     }
   },
   "SGN_PQC_ow_data": {
-    "287510": {
+    "293332": {
       "cena": 3899,
       "nazwa": "Phu Quoc",
-      "data": "03.01.2027",
-      "flight": "Phu Quoc POZ - PQC 03/01/2027"
+      "data": "04.04.2027",
+      "flight": "Phu Quoc POZ - PQC 04/04/2027"
     },
-    "285806": {
+    "285822": {
       "cena": 4499,
       "nazwa": "Ho Chi Minh / Sajgon",
-      "data": "09.11.2026",
-      "flight": "Ho Chi Minh / Sajgon KTW - SGN 09/11/2026"
+      "data": "07.12.2026",
+      "flight": "Ho Chi Minh / Sajgon KTW - SGN 07/12/2026"
     }
   },
   "PMV_rt_data": {},
