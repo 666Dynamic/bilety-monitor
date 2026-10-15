@@ -56,11 +56,11 @@
     }
   },
   "CMB_rt_data": {
-    "287810": {
+    "287766": {
       "cena": 2999,
       "nazwa": "Colombo",
       "data": "05.11.2026",
-      "flight": "Colombo WAW - CMB 05/11/2026"
+      "flight": "Colombo POZ - CMB 05/11/2026"
     }
   },
   "CMB_ow_data": {},
@@ -74,7 +74,7 @@
   },
   "ZNZ_ow_data": {},
   "BKK_HKT_rt_data": {
-    "287977": {
+    "287976": {
       "cena": 3499,
       "nazwa": "Bangkok",
       "data": "20.11.2026",
@@ -110,17 +110,17 @@
     }
   },
   "SGN_PQC_ow_data": {
-    "287478": {
+    "293332": {
       "cena": 3899,
       "nazwa": "Phu Quoc",
-      "data": "08.11.2026",
-      "flight": "Phu Quoc POZ - PQC 08/11/2026"
+      "data": "04.04.2027",
+      "flight": "Phu Quoc POZ - PQC 04/04/2027"
     },
-    "285822": {
+    "285810": {
       "cena": 4499,
       "nazwa": "Ho Chi Minh / Sajgon",
-      "data": "07.12.2026",
-      "flight": "Ho Chi Minh / Sajgon KTW - SGN 07/12/2026"
+      "data": "16.11.2026",
+      "flight": "Ho Chi Minh / Sajgon KTW - SGN 16/11/2026"
     }
   },
   "PMV_rt_data": {},
