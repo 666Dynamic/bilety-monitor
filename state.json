@@ -25,7 +25,7 @@
   },
   "LIR_ow_data": {},
   "PEN_rt_data": {
-    "286272": {
+    "286273": {
       "cena": 4699,
       "nazwa": "Penang",
       "data": "04.11.2026",
@@ -50,7 +50,7 @@
   "CUN_PVR_ow_data": {},
   "CMB_rt_data": {
     "287722": {
-      "cena": 2499,
+      "cena": 2549,
       "nazwa": "Colombo",
       "data": "05.11.2026",
       "flight": "Colombo KTW - CMB 05/11/2026"
@@ -58,20 +58,20 @@
   },
   "CMB_ow_data": {},
   "ZNZ_rt_data": {
-    "287070": {
+    "286900": {
       "cena": 3199,
       "nazwa": "Zanzibar",
       "data": "04.11.2026",
-      "flight": "Zanzibar POZ - ZNZ 04/11/2026"
+      "flight": "Zanzibar KTW - ZNZ 04/11/2026"
     }
   },
   "ZNZ_ow_data": {},
   "BKK_HKT_rt_data": {
-    "287976": {
+    "287981": {
       "cena": 3499,
       "nazwa": "Bangkok",
-      "data": "20.11.2026",
-      "flight": "Bangkok POZ - BKK 20/11/2026"
+      "data": "04.12.2026",
+      "flight": "Bangkok POZ - BKK 04/12/2026"
     },
     "285761": {
       "cena": 5099,
@@ -89,7 +89,7 @@
     }
   },
   "SGN_PQC_rt_data": {
-    "287496": {
+    "287495": {
       "cena": 3499,
       "nazwa": "Phu Quoc",
       "data": "06.12.2026",
