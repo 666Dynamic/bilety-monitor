@@ -58,11 +58,11 @@
   },
   "CMB_ow_data": {},
   "ZNZ_rt_data": {
-    "286900": {
+    "287070": {
       "cena": 3199,
       "nazwa": "Zanzibar",
       "data": "04.11.2026",
-      "flight": "Zanzibar KTW - ZNZ 04/11/2026"
+      "flight": "Zanzibar POZ - ZNZ 04/11/2026"
     }
   },
   "ZNZ_ow_data": {},
@@ -89,7 +89,7 @@
     }
   },
   "SGN_PQC_rt_data": {
-    "287495": {
+    "287496": {
       "cena": 3499,
       "nazwa": "Phu Quoc",
       "data": "06.12.2026",
@@ -109,11 +109,11 @@
       "data": "06.12.2026",
       "flight": "Phu Quoc POZ - PQC 06/12/2026"
     },
-    "285810": {
+    "285822": {
       "cena": 4499,
       "nazwa": "Ho Chi Minh / Sajgon",
-      "data": "16.11.2026",
-      "flight": "Ho Chi Minh / Sajgon KTW - SGN 16/11/2026"
+      "data": "07.12.2026",
+      "flight": "Ho Chi Minh / Sajgon KTW - SGN 07/12/2026"
     }
   },
   "PMV_rt_data": {},
