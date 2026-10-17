@@ -25,7 +25,7 @@
   },
   "LIR_ow_data": {},
   "PEN_rt_data": {
-    "286273": {
+    "286272": {
       "cena": 4699,
       "nazwa": "Penang",
       "data": "04.11.2026",
@@ -67,11 +67,11 @@
   },
   "ZNZ_ow_data": {},
   "BKK_HKT_rt_data": {
-    "287980": {
+    "287976": {
       "cena": 3499,
       "nazwa": "Bangkok",
-      "data": "04.12.2026",
-      "flight": "Bangkok POZ - BKK 04/12/2026"
+      "data": "20.11.2026",
+      "flight": "Bangkok POZ - BKK 20/11/2026"
     },
     "285761": {
       "cena": 5099,
