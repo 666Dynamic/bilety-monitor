@@ -25,7 +25,7 @@
   },
   "LIR_ow_data": {},
   "PEN_rt_data": {
-    "286273": {
+    "286272": {
       "cena": 4699,
       "nazwa": "Penang",
       "data": "04.11.2026",
@@ -41,7 +41,7 @@
       "flight": "Puerto Vallarta KTW - PVR 17/12/2026"
     },
     "288518": {
-      "cena": 5450,
+      "cena": 4999,
       "nazwa": "Cancun",
       "data": "08.11.2026",
       "flight": "Cancun WAW - CUN 08/11/2026"
@@ -58,20 +58,20 @@
   },
   "CMB_ow_data": {},
   "ZNZ_rt_data": {
-    "287070": {
+    "286900": {
       "cena": 3199,
       "nazwa": "Zanzibar",
       "data": "04.11.2026",
-      "flight": "Zanzibar POZ - ZNZ 04/11/2026"
+      "flight": "Zanzibar KTW - ZNZ 04/11/2026"
     }
   },
   "ZNZ_ow_data": {},
   "BKK_HKT_rt_data": {
-    "287976": {
+    "287980": {
       "cena": 3499,
       "nazwa": "Bangkok",
-      "data": "20.11.2026",
-      "flight": "Bangkok POZ - BKK 20/11/2026"
+      "data": "04.12.2026",
+      "flight": "Bangkok POZ - BKK 04/12/2026"
     },
     "285761": {
       "cena": 5099,
@@ -89,7 +89,7 @@
     }
   },
   "SGN_PQC_rt_data": {
-    "287496": {
+    "287495": {
       "cena": 3499,
       "nazwa": "Phu Quoc",
       "data": "06.12.2026",
@@ -109,11 +109,11 @@
       "data": "06.12.2026",
       "flight": "Phu Quoc POZ - PQC 06/12/2026"
     },
-    "285822": {
+    "285810": {
       "cena": 4499,
       "nazwa": "Ho Chi Minh / Sajgon",
-      "data": "07.12.2026",
-      "flight": "Ho Chi Minh / Sajgon KTW - SGN 07/12/2026"
+      "data": "16.11.2026",
+      "flight": "Ho Chi Minh / Sajgon KTW - SGN 16/11/2026"
     }
   },
   "PMV_rt_data": {},
