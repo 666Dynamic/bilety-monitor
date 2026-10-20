@@ -35,7 +35,7 @@
   "PEN_ow_data": {},
   "CUN_PVR_rt_data": {
     "283710": {
-      "cena": 4799,
+      "cena": 4499,
       "nazwa": "Puerto Vallarta",
       "data": "17.12.2026",
       "flight": "Puerto Vallarta KTW - PVR 17/12/2026"
@@ -58,20 +58,20 @@
   },
   "CMB_ow_data": {},
   "ZNZ_rt_data": {
-    "286900": {
+    "287070": {
       "cena": 3199,
       "nazwa": "Zanzibar",
       "data": "04.11.2026",
-      "flight": "Zanzibar KTW - ZNZ 04/11/2026"
+      "flight": "Zanzibar POZ - ZNZ 04/11/2026"
     }
   },
   "ZNZ_ow_data": {},
   "BKK_HKT_rt_data": {
-    "287980": {
+    "287976": {
       "cena": 3499,
       "nazwa": "Bangkok",
-      "data": "04.12.2026",
-      "flight": "Bangkok POZ - BKK 04/12/2026"
+      "data": "20.11.2026",
+      "flight": "Bangkok POZ - BKK 20/11/2026"
     },
     "285761": {
       "cena": 5099,
@@ -89,7 +89,7 @@
     }
   },
   "SGN_PQC_rt_data": {
-    "287495": {
+    "287496": {
       "cena": 3499,
       "nazwa": "Phu Quoc",
       "data": "06.12.2026",
