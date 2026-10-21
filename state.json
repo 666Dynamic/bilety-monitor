@@ -26,7 +26,7 @@
   "LIR_ow_data": {},
   "PEN_rt_data": {
     "286272": {
-      "cena": 4699,
+      "cena": 3999,
       "nazwa": "Penang",
       "data": "04.11.2026",
       "flight": "Penang WAW - PEN 04/11/2026"
@@ -68,13 +68,13 @@
   "ZNZ_ow_data": {},
   "BKK_HKT_rt_data": {
     "287980": {
-      "cena": 3099,
+      "cena": 2699,
       "nazwa": "Bangkok",
       "data": "04.12.2026",
       "flight": "Bangkok POZ - BKK 04/12/2026"
     },
-    "285761": {
-      "cena": 5099,
+    "285760": {
+      "cena": 4599,
       "nazwa": "Phuket",
       "data": "24.11.2026",
       "flight": "Phuket WAW - HKT 24/11/2026"
@@ -89,11 +89,11 @@
     }
   },
   "SGN_PQC_rt_data": {
-    "287479": {
+    "287496": {
       "cena": 3499,
       "nazwa": "Phu Quoc",
-      "data": "08.11.2026",
-      "flight": "Phu Quoc POZ - PQC 08/11/2026"
+      "data": "06.12.2026",
+      "flight": "Phu Quoc POZ - PQC 06/12/2026"
     },
     "285816": {
       "cena": 4599,
@@ -103,11 +103,11 @@
     }
   },
   "SGN_PQC_ow_data": {
-    "287494": {
+    "287478": {
       "cena": 3449,
       "nazwa": "Phu Quoc",
-      "data": "06.12.2026",
-      "flight": "Phu Quoc POZ - PQC 06/12/2026"
+      "data": "08.11.2026",
+      "flight": "Phu Quoc POZ - PQC 08/11/2026"
     },
     "285822": {
       "cena": 4499,
