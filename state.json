@@ -41,7 +41,7 @@
       "flight": "Puerto Vallarta KTW - PVR 17/12/2026"
     },
     "288518": {
-      "cena": 5049,
+      "cena": 4500,
       "nazwa": "Cancun",
       "data": "08.11.2026",
       "flight": "Cancun WAW - CUN 08/11/2026"
@@ -50,7 +50,7 @@
   "CUN_PVR_ow_data": {},
   "CMB_rt_data": {
     "287722": {
-      "cena": 2699,
+      "cena": 2399,
       "nazwa": "Colombo",
       "data": "05.11.2026",
       "flight": "Colombo KTW - CMB 05/11/2026"
@@ -68,16 +68,16 @@
   "ZNZ_ow_data": {},
   "BKK_HKT_rt_data": {
     "287980": {
-      "cena": 2699,
+      "cena": 2749,
       "nazwa": "Bangkok",
       "data": "04.12.2026",
       "flight": "Bangkok POZ - BKK 04/12/2026"
     },
-    "285760": {
+    "285719": {
       "cena": 4599,
       "nazwa": "Phuket",
-      "data": "24.11.2026",
-      "flight": "Phuket WAW - HKT 24/11/2026"
+      "data": "13.11.2026",
+      "flight": "Phuket KTW - HKT 13/11/2026"
     }
   },
   "BKK_HKT_ow_data": {
@@ -90,30 +90,30 @@
   },
   "SGN_PQC_rt_data": {
     "287479": {
-      "cena": 3499,
+      "cena": 2949,
       "nazwa": "Phu Quoc",
       "data": "08.11.2026",
       "flight": "Phu Quoc POZ - PQC 08/11/2026"
     },
-    "285816": {
-      "cena": 4599,
+    "285807": {
+      "cena": 4499,
       "nazwa": "Ho Chi Minh / Sajgon",
-      "data": "23.11.2026",
-      "flight": "Ho Chi Minh / Sajgon KTW - SGN 23/11/2026"
+      "data": "09.11.2026",
+      "flight": "Ho Chi Minh / Sajgon KTW - SGN 09/11/2026"
     }
   },
   "SGN_PQC_ow_data": {
     "287478": {
-      "cena": 3449,
+      "cena": 2899,
       "nazwa": "Phu Quoc",
       "data": "08.11.2026",
       "flight": "Phu Quoc POZ - PQC 08/11/2026"
     },
-    "285810": {
-      "cena": 4499,
+    "285806": {
+      "cena": 4449,
       "nazwa": "Ho Chi Minh / Sajgon",
-      "data": "16.11.2026",
-      "flight": "Ho Chi Minh / Sajgon KTW - SGN 16/11/2026"
+      "data": "09.11.2026",
+      "flight": "Ho Chi Minh / Sajgon KTW - SGN 09/11/2026"
     }
   },
   "PMV_rt_data": {},
