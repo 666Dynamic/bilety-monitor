@@ -89,11 +89,11 @@
     }
   },
   "SGN_PQC_rt_data": {
-    "287495": {
+    "287479": {
       "cena": 3499,
       "nazwa": "Phu Quoc",
-      "data": "06.12.2026",
-      "flight": "Phu Quoc POZ - PQC 06/12/2026"
+      "data": "08.11.2026",
+      "flight": "Phu Quoc POZ - PQC 08/11/2026"
     },
     "285816": {
       "cena": 4599,
@@ -103,17 +103,17 @@
     }
   },
   "SGN_PQC_ow_data": {
-    "287494": {
+    "287478": {
       "cena": 3449,
       "nazwa": "Phu Quoc",
-      "data": "06.12.2026",
-      "flight": "Phu Quoc POZ - PQC 06/12/2026"
+      "data": "08.11.2026",
+      "flight": "Phu Quoc POZ - PQC 08/11/2026"
     },
-    "285822": {
+    "285810": {
       "cena": 4499,
       "nazwa": "Ho Chi Minh / Sajgon",
-      "data": "07.12.2026",
-      "flight": "Ho Chi Minh / Sajgon KTW - SGN 07/12/2026"
+      "data": "16.11.2026",
+      "flight": "Ho Chi Minh / Sajgon KTW - SGN 16/11/2026"
     }
   },
   "PMV_rt_data": {},
