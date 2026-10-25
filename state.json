@@ -50,7 +50,7 @@
   "CUN_PVR_ow_data": {},
   "CMB_rt_data": {
     "287722": {
-      "cena": 2499,
+      "cena": 2599,
       "nazwa": "Colombo",
       "data": "05.11.2026",
       "flight": "Colombo KTW - CMB 05/11/2026"
@@ -58,11 +58,11 @@
   },
   "CMB_ow_data": {},
   "ZNZ_rt_data": {
-    "287070": {
+    "286900": {
       "cena": 2799,
       "nazwa": "Zanzibar",
       "data": "04.11.2026",
-      "flight": "Zanzibar POZ - ZNZ 04/11/2026"
+      "flight": "Zanzibar KTW - ZNZ 04/11/2026"
     }
   },
   "ZNZ_ow_data": {},
