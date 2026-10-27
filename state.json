@@ -1,15 +1,15 @@
 {
   "POP_rt_data": {
-    "290013": {
-      "cena": 2549,
+    "290017": {
+      "cena": 3099,
       "nazwa": "Puerto Plata",
-      "data": "16.11.2026",
-      "flight": "Puerto Plata WAW - POP 16/11/2026"
+      "data": "23.11.2026",
+      "flight": "Puerto Plata WAW - POP 23/11/2026"
     }
   },
   "POP_ow_data": {
     "290040": {
-      "cena": 1749,
+      "cena": 1649,
       "nazwa": "Puerto Plata",
       "data": "04.01.2027",
       "flight": "Puerto Plata WAW - POP 04/01/2027"
@@ -26,7 +26,7 @@
   "LIR_ow_data": {},
   "PEN_rt_data": {
     "286272": {
-      "cena": 3699,
+      "cena": 3649,
       "nazwa": "Penang",
       "data": "04.11.2026",
       "flight": "Penang WAW - PEN 04/11/2026"
@@ -47,7 +47,14 @@
       "flight": "Puerto Vallarta KTW - PVR 17/12/2026"
     }
   },
-  "CUN_PVR_ow_data": {},
+  "CUN_PVR_ow_data": {
+    "305964": {
+      "cena": 8749,
+      "nazwa": "Puerto Vallarta",
+      "data": "31.12.2026",
+      "flight": "Puerto Vallarta KTW - PVR 31/12/2026"
+    }
+  },
   "CMB_rt_data": {
     "287810": {
       "cena": 2599,
@@ -59,7 +66,7 @@
   "CMB_ow_data": {},
   "ZNZ_rt_data": {
     "286900": {
-      "cena": 2499,
+      "cena": 2549,
       "nazwa": "Zanzibar",
       "data": "04.11.2026",
       "flight": "Zanzibar KTW - ZNZ 04/11/2026"
@@ -67,11 +74,11 @@
   },
   "ZNZ_ow_data": {},
   "BKK_HKT_rt_data": {
-    "287975": {
-      "cena": 2899,
+    "287980": {
+      "cena": 2799,
       "nazwa": "Bangkok",
-      "data": "13.11.2026",
-      "flight": "Bangkok POZ - BKK 13/11/2026"
+      "data": "04.12.2026",
+      "flight": "Bangkok POZ - BKK 04/12/2026"
     },
     "285719": {
       "cena": 4299,
