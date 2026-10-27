@@ -49,11 +49,11 @@
   },
   "CUN_PVR_ow_data": {},
   "CMB_rt_data": {
-    "287722": {
-      "cena": 2649,
+    "287810": {
+      "cena": 2599,
       "nazwa": "Colombo",
       "data": "05.11.2026",
-      "flight": "Colombo KTW - CMB 05/11/2026"
+      "flight": "Colombo WAW - CMB 05/11/2026"
     }
   },
   "CMB_ow_data": {},
@@ -74,7 +74,7 @@
       "flight": "Bangkok POZ - BKK 13/11/2026"
     },
     "285719": {
-      "cena": 4599,
+      "cena": 4299,
       "nazwa": "Phuket",
       "data": "13.11.2026",
       "flight": "Phuket KTW - HKT 13/11/2026"
