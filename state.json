@@ -47,14 +47,7 @@
       "flight": "Puerto Vallarta KTW - PVR 17/12/2026"
     }
   },
-  "CUN_PVR_ow_data": {
-    "305964": {
-      "cena": 8749,
-      "nazwa": "Puerto Vallarta",
-      "data": "31.12.2026",
-      "flight": "Puerto Vallarta KTW - PVR 31/12/2026"
-    }
-  },
+  "CUN_PVR_ow_data": {},
   "CMB_rt_data": {
     "287810": {
       "cena": 2599,
