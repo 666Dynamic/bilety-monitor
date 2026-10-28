@@ -1,10 +1,10 @@
 {
   "POP_rt_data": {
-    "290013": {
-      "cena": 3049,
+    "290017": {
+      "cena": 3099,
       "nazwa": "Puerto Plata",
-      "data": "16.11.2026",
-      "flight": "Puerto Plata WAW - POP 16/11/2026"
+      "data": "23.11.2026",
+      "flight": "Puerto Plata WAW - POP 23/11/2026"
     }
   },
   "POP_ow_data": {
@@ -16,11 +16,11 @@
     }
   },
   "LIR_rt_data": {
-    "283724": {
-      "cena": 7000,
+    "305931": {
+      "cena": 6699,
       "nazwa": "Liberia",
-      "data": "03.12.2026",
-      "flight": "Liberia KTW - LIR 03/12/2026"
+      "data": "05.11.2026",
+      "flight": "Liberia KTW - LIR 05/11/2026"
     }
   },
   "LIR_ow_data": {},
@@ -58,11 +58,11 @@
   },
   "CMB_ow_data": {},
   "ZNZ_rt_data": {
-    "286985": {
-      "cena": 3299,
+    "286900": {
+      "cena": 3649,
       "nazwa": "Zanzibar",
       "data": "04.11.2026",
-      "flight": "Zanzibar WAW - ZNZ 04/11/2026"
+      "flight": "Zanzibar KTW - ZNZ 04/11/2026"
     }
   },
   "ZNZ_ow_data": {},
@@ -95,11 +95,11 @@
       "data": "06.12.2026",
       "flight": "Phu Quoc POZ - PQC 06/12/2026"
     },
-    "285816": {
-      "cena": 4449,
+    "285807": {
+      "cena": 3949,
       "nazwa": "Ho Chi Minh / Sajgon",
-      "data": "23.11.2026",
-      "flight": "Ho Chi Minh / Sajgon KTW - SGN 23/11/2026"
+      "data": "09.11.2026",
+      "flight": "Ho Chi Minh / Sajgon KTW - SGN 09/11/2026"
     }
   },
   "SGN_PQC_ow_data": {
@@ -109,11 +109,11 @@
       "data": "06.12.2026",
       "flight": "Phu Quoc POZ - PQC 06/12/2026"
     },
-    "285814": {
-      "cena": 4299,
+    "285806": {
+      "cena": 3899,
       "nazwa": "Ho Chi Minh / Sajgon",
-      "data": "23.11.2026",
-      "flight": "Ho Chi Minh / Sajgon KTW - SGN 23/11/2026"
+      "data": "09.11.2026",
+      "flight": "Ho Chi Minh / Sajgon KTW - SGN 09/11/2026"
     }
   },
   "PMV_rt_data": {},
