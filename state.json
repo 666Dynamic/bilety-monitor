@@ -49,11 +49,11 @@
   },
   "CUN_PVR_ow_data": {},
   "CMB_rt_data": {
-    "287810": {
+    "287722": {
       "cena": 2599,
       "nazwa": "Colombo",
       "data": "05.11.2026",
-      "flight": "Colombo WAW - CMB 05/11/2026"
+      "flight": "Colombo KTW - CMB 05/11/2026"
     }
   },
   "CMB_ow_data": {},
@@ -95,7 +95,7 @@
       "data": "06.12.2026",
       "flight": "Phu Quoc POZ - PQC 06/12/2026"
     },
-    "285807": {
+    "285808": {
       "cena": 3949,
       "nazwa": "Ho Chi Minh / Sajgon",
       "data": "09.11.2026",
