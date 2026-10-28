@@ -1,10 +1,10 @@
 {
   "POP_rt_data": {
-    "290017": {
-      "cena": 3099,
+    "290013": {
+      "cena": 3049,
       "nazwa": "Puerto Plata",
-      "data": "23.11.2026",
-      "flight": "Puerto Plata WAW - POP 23/11/2026"
+      "data": "16.11.2026",
+      "flight": "Puerto Plata WAW - POP 16/11/2026"
     }
   },
   "POP_ow_data": {
@@ -26,7 +26,7 @@
   "LIR_ow_data": {},
   "PEN_rt_data": {
     "286272": {
-      "cena": 3649,
+      "cena": 2999,
       "nazwa": "Penang",
       "data": "04.11.2026",
       "flight": "Penang WAW - PEN 04/11/2026"
@@ -58,11 +58,11 @@
   },
   "CMB_ow_data": {},
   "ZNZ_rt_data": {
-    "286900": {
-      "cena": 2549,
+    "286985": {
+      "cena": 3299,
       "nazwa": "Zanzibar",
       "data": "04.11.2026",
-      "flight": "Zanzibar KTW - ZNZ 04/11/2026"
+      "flight": "Zanzibar WAW - ZNZ 04/11/2026"
     }
   },
   "ZNZ_ow_data": {},
@@ -74,7 +74,7 @@
       "flight": "Bangkok POZ - BKK 04/12/2026"
     },
     "285719": {
-      "cena": 4299,
+      "cena": 4099,
       "nazwa": "Phuket",
       "data": "13.11.2026",
       "flight": "Phuket KTW - HKT 13/11/2026"
