@@ -26,7 +26,7 @@
   "LIR_ow_data": {},
   "PEN_rt_data": {
     "286272": {
-      "cena": 2999,
+      "cena": 3049,
       "nazwa": "Penang",
       "data": "04.11.2026",
       "flight": "Penang WAW - PEN 04/11/2026"
@@ -49,32 +49,32 @@
   },
   "CUN_PVR_ow_data": {},
   "CMB_rt_data": {
-    "287722": {
-      "cena": 2599,
+    "287766": {
+      "cena": 2199,
       "nazwa": "Colombo",
       "data": "05.11.2026",
-      "flight": "Colombo KTW - CMB 05/11/2026"
+      "flight": "Colombo POZ - CMB 05/11/2026"
     }
   },
   "CMB_ow_data": {},
   "ZNZ_rt_data": {
-    "287074": {
+    "306022": {
       "cena": 3699,
       "nazwa": "Zanzibar",
       "data": "11.11.2026",
-      "flight": "Zanzibar POZ - ZNZ 11/11/2026"
+      "flight": "Zanzibar WRO - ZNZ 11/11/2026"
     }
   },
   "ZNZ_ow_data": {},
   "BKK_HKT_rt_data": {
     "287980": {
-      "cena": 2799,
+      "cena": 2599,
       "nazwa": "Bangkok",
       "data": "04.12.2026",
       "flight": "Bangkok POZ - BKK 04/12/2026"
     },
     "285719": {
-      "cena": 4099,
+      "cena": 3899,
       "nazwa": "Phuket",
       "data": "13.11.2026",
       "flight": "Phuket KTW - HKT 13/11/2026"
@@ -96,7 +96,7 @@
       "flight": "Phu Quoc POZ - PQC 06/12/2026"
     },
     "285808": {
-      "cena": 3949,
+      "cena": 3549,
       "nazwa": "Ho Chi Minh / Sajgon",
       "data": "09.11.2026",
       "flight": "Ho Chi Minh / Sajgon KTW - SGN 09/11/2026"
@@ -110,7 +110,7 @@
       "flight": "Phu Quoc POZ - PQC 06/12/2026"
     },
     "285806": {
-      "cena": 3899,
+      "cena": 3499,
       "nazwa": "Ho Chi Minh / Sajgon",
       "data": "09.11.2026",
       "flight": "Ho Chi Minh / Sajgon KTW - SGN 09/11/2026"
