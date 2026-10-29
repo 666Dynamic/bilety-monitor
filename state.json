@@ -50,7 +50,7 @@
   "CUN_PVR_ow_data": {},
   "CMB_rt_data": {
     "287766": {
-      "cena": 2199,
+      "cena": 2249,
       "nazwa": "Colombo",
       "data": "05.11.2026",
       "flight": "Colombo POZ - CMB 05/11/2026"
@@ -58,11 +58,11 @@
   },
   "CMB_ow_data": {},
   "ZNZ_rt_data": {
-    "306022": {
+    "287074": {
       "cena": 3699,
       "nazwa": "Zanzibar",
       "data": "11.11.2026",
-      "flight": "Zanzibar WRO - ZNZ 11/11/2026"
+      "flight": "Zanzibar POZ - ZNZ 11/11/2026"
     }
   },
   "ZNZ_ow_data": {},
@@ -95,7 +95,7 @@
       "data": "06.12.2026",
       "flight": "Phu Quoc POZ - PQC 06/12/2026"
     },
-    "285808": {
+    "285807": {
       "cena": 3549,
       "nazwa": "Ho Chi Minh / Sajgon",
       "data": "09.11.2026",
