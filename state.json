@@ -17,7 +17,7 @@
   },
   "LIR_rt_data": {
     "305931": {
-      "cena": 6699,
+      "cena": 5899,
       "nazwa": "Liberia",
       "data": "05.11.2026",
       "flight": "Liberia KTW - LIR 05/11/2026"
@@ -50,7 +50,7 @@
   "CUN_PVR_ow_data": {},
   "CMB_rt_data": {
     "287766": {
-      "cena": 2249,
+      "cena": 1999,
       "nazwa": "Colombo",
       "data": "05.11.2026",
       "flight": "Colombo POZ - CMB 05/11/2026"
@@ -95,7 +95,7 @@
       "data": "06.12.2026",
       "flight": "Phu Quoc POZ - PQC 06/12/2026"
     },
-    "285808": {
+    "285807": {
       "cena": 3549,
       "nazwa": "Ho Chi Minh / Sajgon",
       "data": "09.11.2026",
