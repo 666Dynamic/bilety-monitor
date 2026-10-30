@@ -58,11 +58,11 @@
   },
   "CMB_ow_data": {},
   "ZNZ_rt_data": {
-    "287074": {
+    "286989": {
       "cena": 3699,
       "nazwa": "Zanzibar",
       "data": "11.11.2026",
-      "flight": "Zanzibar POZ - ZNZ 11/11/2026"
+      "flight": "Zanzibar WAW - ZNZ 11/11/2026"
     }
   },
   "ZNZ_ow_data": {},
@@ -95,7 +95,7 @@
       "data": "06.12.2026",
       "flight": "Phu Quoc POZ - PQC 06/12/2026"
     },
-    "285807": {
+    "285808": {
       "cena": 3549,
       "nazwa": "Ho Chi Minh / Sajgon",
       "data": "09.11.2026",
