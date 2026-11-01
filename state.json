@@ -65,17 +65,17 @@
   },
   "CMB_ow_data": {},
   "ZNZ_rt_data": {
-    "287070": {
+    "305976": {
       "cena": 3499,
       "nazwa": "Zanzibar",
       "data": "04.11.2026",
-      "flight": "Zanzibar POZ - ZNZ 04/11/2026"
+      "flight": "Zanzibar WRO - ZNZ 04/11/2026"
     }
   },
   "ZNZ_ow_data": {},
   "BKK_HKT_rt_data": {
     "285717": {
-      "cena": 2849,
+      "cena": 2799,
       "nazwa": "Phuket",
       "data": "06.11.2026",
       "flight": "Phuket KTW - HKT 06/11/2026"
