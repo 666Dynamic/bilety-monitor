@@ -57,7 +57,7 @@
   },
   "CMB_rt_data": {
     "287722": {
-      "cena": 1799,
+      "cena": 1849,
       "nazwa": "Colombo",
       "data": "05.11.2026",
       "flight": "Colombo KTW - CMB 05/11/2026"
@@ -65,17 +65,17 @@
   },
   "CMB_ow_data": {},
   "ZNZ_rt_data": {
-    "305976": {
+    "287070": {
       "cena": 3499,
       "nazwa": "Zanzibar",
       "data": "04.11.2026",
-      "flight": "Zanzibar WRO - ZNZ 04/11/2026"
+      "flight": "Zanzibar POZ - ZNZ 04/11/2026"
     }
   },
   "ZNZ_ow_data": {},
   "BKK_HKT_rt_data": {
     "285717": {
-      "cena": 2799,
+      "cena": 2849,
       "nazwa": "Phuket",
       "data": "06.11.2026",
       "flight": "Phuket KTW - HKT 06/11/2026"
