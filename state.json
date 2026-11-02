@@ -17,7 +17,7 @@
   },
   "LIR_rt_data": {
     "305931": {
-      "cena": 5899,
+      "cena": 3999,
       "nazwa": "Liberia",
       "data": "05.11.2026",
       "flight": "Liberia KTW - LIR 05/11/2026"
@@ -26,7 +26,7 @@
   "LIR_ow_data": {},
   "PEN_rt_data": {
     "286272": {
-      "cena": 2549,
+      "cena": 2599,
       "nazwa": "Penang",
       "data": "04.11.2026",
       "flight": "Penang WAW - PEN 04/11/2026"
@@ -56,20 +56,20 @@
     }
   },
   "CMB_rt_data": {
-    "287722": {
-      "cena": 1849,
+    "287766": {
+      "cena": 1899,
       "nazwa": "Colombo",
       "data": "05.11.2026",
-      "flight": "Colombo KTW - CMB 05/11/2026"
+      "flight": "Colombo POZ - CMB 05/11/2026"
     }
   },
   "CMB_ow_data": {},
   "ZNZ_rt_data": {
-    "305976": {
-      "cena": 3499,
+    "287070": {
+      "cena": 2999,
       "nazwa": "Zanzibar",
       "data": "04.11.2026",
-      "flight": "Zanzibar WRO - ZNZ 04/11/2026"
+      "flight": "Zanzibar POZ - ZNZ 04/11/2026"
     }
   },
   "ZNZ_ow_data": {},
