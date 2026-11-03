@@ -17,7 +17,7 @@
   },
   "LIR_rt_data": {
     "305931": {
-      "cena": 3499,
+      "cena": 3299,
       "nazwa": "Liberia",
       "data": "05.11.2026",
       "flight": "Liberia KTW - LIR 05/11/2026"
@@ -73,13 +73,20 @@
   "CMB_ow_data": {},
   "ZNZ_rt_data": {
     "287070": {
-      "cena": 1299,
+      "cena": 999,
       "nazwa": "Zanzibar",
       "data": "04.11.2026",
       "flight": "Zanzibar POZ - ZNZ 04/11/2026"
     }
   },
-  "ZNZ_ow_data": {},
+  "ZNZ_ow_data": {
+    "287069": {
+      "cena": 499,
+      "nazwa": "Zanzibar",
+      "data": "04.11.2026",
+      "flight": "Zanzibar POZ - ZNZ 04/11/2026"
+    }
+  },
   "BKK_HKT_rt_data": {
     "285717": {
       "cena": 2699,
