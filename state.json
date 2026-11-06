@@ -41,11 +41,11 @@
   },
   "PEN_ow_data": {},
   "CUN_PVR_rt_data": {
-    "283721": {
+    "283710": {
       "cena": 3499,
       "nazwa": "Puerto Vallarta",
-      "data": "04.03.2027",
-      "flight": "Puerto Vallarta KTW - PVR 04/03/2027"
+      "data": "17.12.2026",
+      "flight": "Puerto Vallarta KTW - PVR 17/12/2026"
     },
     "288520": {
       "cena": 5600,
@@ -81,7 +81,7 @@
       "flight": "Bangkok POZ - BKK 27/11/2026"
     },
     "285760": {
-      "cena": 3699,
+      "cena": 3749,
       "nazwa": "Phuket",
       "data": "24.11.2026",
       "flight": "Phuket WAW - HKT 24/11/2026"
