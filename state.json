@@ -25,7 +25,7 @@
   },
   "LIR_ow_data": {
     "309773": {
-      "cena": 970,
+      "cena": 670,
       "nazwa": "Liberia",
       "data": "12.11.2026",
       "flight": "Liberia KTW - LIR 12/11/2026"
@@ -33,7 +33,7 @@
   },
   "PEN_rt_data": {
     "286276": {
-      "cena": 2099,
+      "cena": 2399,
       "nazwa": "Penang",
       "data": "11.11.2026",
       "flight": "Penang WAW - PEN 11/11/2026"
@@ -75,16 +75,16 @@
   "ZNZ_ow_data": {},
   "BKK_HKT_rt_data": {
     "285719": {
-      "cena": 2999,
+      "cena": 2899,
       "nazwa": "Phuket",
       "data": "13.11.2026",
       "flight": "Phuket KTW - HKT 13/11/2026"
     },
-    "287979": {
+    "287984": {
       "cena": 2999,
       "nazwa": "Bangkok",
-      "data": "27.11.2026",
-      "flight": "Bangkok POZ - BKK 27/11/2026"
+      "data": "18.12.2026",
+      "flight": "Bangkok POZ - BKK 18/12/2026"
     }
   },
   "BKK_HKT_ow_data": {
@@ -97,12 +97,12 @@
   },
   "SGN_PQC_rt_data": {
     "285807": {
-      "cena": 2549,
+      "cena": 2049,
       "nazwa": "Ho Chi Minh / Sajgon",
       "data": "09.11.2026",
       "flight": "Ho Chi Minh / Sajgon KTW - SGN 09/11/2026"
     },
-    "287496": {
+    "287495": {
       "cena": 3199,
       "nazwa": "Phu Quoc",
       "data": "06.12.2026",
@@ -111,7 +111,7 @@
   },
   "SGN_PQC_ow_data": {
     "285806": {
-      "cena": 2499,
+      "cena": 1950,
       "nazwa": "Ho Chi Minh / Sajgon",
       "data": "09.11.2026",
       "flight": "Ho Chi Minh / Sajgon KTW - SGN 09/11/2026"
