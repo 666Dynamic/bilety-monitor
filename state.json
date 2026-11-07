@@ -47,11 +47,11 @@
       "data": "17.12.2026",
       "flight": "Puerto Vallarta KTW - PVR 17/12/2026"
     },
-    "288520": {
-      "cena": 4999,
+    "288518": {
+      "cena": 3899,
       "nazwa": "Cancun",
-      "data": "15.11.2026",
-      "flight": "Cancun WAW - CUN 15/11/2026"
+      "data": "08.11.2026",
+      "flight": "Cancun WAW - CUN 08/11/2026"
     }
   },
   "CUN_PVR_ow_data": {},
