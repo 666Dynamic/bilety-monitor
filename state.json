@@ -16,11 +16,11 @@
     }
   },
   "LIR_rt_data": {
-    "306065": {
-      "cena": 2570,
+    "283724": {
+      "cena": 2999,
       "nazwa": "Liberia",
-      "data": "12.11.2026",
-      "flight": "Liberia KTW - LIR 12/11/2026"
+      "data": "03.12.2026",
+      "flight": "Liberia KTW - LIR 03/12/2026"
     }
   },
   "LIR_ow_data": {
@@ -47,11 +47,11 @@
       "data": "17.12.2026",
       "flight": "Puerto Vallarta KTW - PVR 17/12/2026"
     },
-    "288518": {
-      "cena": 3899,
+    "288520": {
+      "cena": 4999,
       "nazwa": "Cancun",
-      "data": "08.11.2026",
-      "flight": "Cancun WAW - CUN 08/11/2026"
+      "data": "15.11.2026",
+      "flight": "Cancun WAW - CUN 15/11/2026"
     }
   },
   "CUN_PVR_ow_data": {},
@@ -80,11 +80,11 @@
       "data": "13.11.2026",
       "flight": "Phuket KTW - HKT 13/11/2026"
     },
-    "287984": {
+    "287978": {
       "cena": 2999,
       "nazwa": "Bangkok",
-      "data": "18.12.2026",
-      "flight": "Bangkok POZ - BKK 18/12/2026"
+      "data": "27.11.2026",
+      "flight": "Bangkok POZ - BKK 27/11/2026"
     }
   },
   "BKK_HKT_ow_data": {
