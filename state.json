@@ -16,19 +16,19 @@
     }
   },
   "LIR_rt_data": {
-    "306064": {
+    "283724": {
       "cena": 2999,
       "nazwa": "Liberia",
-      "data": "12.11.2026",
-      "flight": "Liberia KTW - LIR 12/11/2026"
+      "data": "03.12.2026",
+      "flight": "Liberia KTW - LIR 03/12/2026"
     }
   },
   "LIR_ow_data": {
-    "309773": {
-      "cena": 670,
+    "309774": {
+      "cena": 999,
       "nazwa": "Liberia",
-      "data": "12.11.2026",
-      "flight": "Liberia KTW - LIR 12/11/2026"
+      "data": "26.11.2026",
+      "flight": "Liberia KTW - LIR 26/11/2026"
     }
   },
   "PEN_rt_data": {
