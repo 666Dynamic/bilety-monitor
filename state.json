@@ -41,11 +41,11 @@
   },
   "PEN_ow_data": {},
   "CUN_PVR_rt_data": {
-    "283714": {
+    "283717": {
       "cena": 3199,
       "nazwa": "Puerto Vallarta",
-      "data": "14.01.2027",
-      "flight": "Puerto Vallarta KTW - PVR 14/01/2027"
+      "data": "04.02.2027",
+      "flight": "Puerto Vallarta KTW - PVR 04/02/2027"
     },
     "288520": {
       "cena": 4999,
@@ -56,35 +56,35 @@
   },
   "CUN_PVR_ow_data": {},
   "CMB_rt_data": {
-    "287769": {
+    "287725": {
       "cena": 2099,
       "nazwa": "Colombo",
       "data": "15.11.2026",
-      "flight": "Colombo POZ - CMB 15/11/2026"
+      "flight": "Colombo KTW - CMB 15/11/2026"
     }
   },
   "CMB_ow_data": {},
   "ZNZ_rt_data": {
-    "306023": {
+    "286908": {
       "cena": 3999,
       "nazwa": "Zanzibar",
       "data": "18.11.2026",
-      "flight": "Zanzibar WRO - ZNZ 18/11/2026"
+      "flight": "Zanzibar KTW - ZNZ 18/11/2026"
     }
   },
   "ZNZ_ow_data": {},
   "BKK_HKT_rt_data": {
     "285719": {
-      "cena": 2699,
+      "cena": 2499,
       "nazwa": "Phuket",
       "data": "13.11.2026",
       "flight": "Phuket KTW - HKT 13/11/2026"
     },
-    "287977": {
+    "287974": {
       "cena": 2799,
       "nazwa": "Bangkok",
-      "data": "20.11.2026",
-      "flight": "Bangkok POZ - BKK 20/11/2026"
+      "data": "13.11.2026",
+      "flight": "Bangkok POZ - BKK 13/11/2026"
     }
   },
   "BKK_HKT_ow_data": {
