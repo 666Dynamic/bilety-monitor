@@ -33,7 +33,7 @@
   },
   "PEN_rt_data": {
     "286280": {
-      "cena": 2449,
+      "cena": 2499,
       "nazwa": "Penang",
       "data": "18.11.2026",
       "flight": "Penang WAW - PEN 18/11/2026"
@@ -56,11 +56,11 @@
   },
   "CUN_PVR_ow_data": {},
   "CMB_rt_data": {
-    "287725": {
+    "287769": {
       "cena": 2099,
       "nazwa": "Colombo",
       "data": "15.11.2026",
-      "flight": "Colombo KTW - CMB 15/11/2026"
+      "flight": "Colombo POZ - CMB 15/11/2026"
     }
   },
   "CMB_ow_data": {},
@@ -102,11 +102,11 @@
       "data": "16.11.2026",
       "flight": "Ho Chi Minh / Sajgon KTW - SGN 16/11/2026"
     },
-    "287483": {
-      "cena": 2999,
+    "287564": {
+      "cena": 2499,
       "nazwa": "Phu Quoc",
-      "data": "15.11.2026",
-      "flight": "Phu Quoc POZ - PQC 15/11/2026"
+      "data": "12.11.2026",
+      "flight": "Phu Quoc WAW - PQC 12/11/2026"
     }
   },
   "SGN_PQC_ow_data": {
@@ -116,11 +116,11 @@
       "data": "16.11.2026",
       "flight": "Ho Chi Minh / Sajgon KTW - SGN 16/11/2026"
     },
-    "287482": {
-      "cena": 3099,
+    "287563": {
+      "cena": 2450,
       "nazwa": "Phu Quoc",
-      "data": "15.11.2026",
-      "flight": "Phu Quoc POZ - PQC 15/11/2026"
+      "data": "12.11.2026",
+      "flight": "Phu Quoc WAW - PQC 12/11/2026"
     }
   },
   "PMV_rt_data": {},
