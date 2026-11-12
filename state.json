@@ -24,11 +24,11 @@
     }
   },
   "LIR_ow_data": {
-    "307312": {
+    "309774": {
       "cena": 999,
       "nazwa": "Liberia",
-      "data": "10.12.2026",
-      "flight": "Liberia KTW - LIR 10/12/2026"
+      "data": "26.11.2026",
+      "flight": "Liberia KTW - LIR 26/11/2026"
     }
   },
   "PEN_rt_data": {
@@ -56,20 +56,20 @@
   },
   "CUN_PVR_ow_data": {},
   "CMB_rt_data": {
-    "287769": {
+    "287725": {
       "cena": 2099,
       "nazwa": "Colombo",
       "data": "15.11.2026",
-      "flight": "Colombo POZ - CMB 15/11/2026"
+      "flight": "Colombo KTW - CMB 15/11/2026"
     }
   },
   "CMB_ow_data": {},
   "ZNZ_rt_data": {
-    "286908": {
+    "306023": {
       "cena": 3999,
       "nazwa": "Zanzibar",
       "data": "18.11.2026",
-      "flight": "Zanzibar KTW - ZNZ 18/11/2026"
+      "flight": "Zanzibar WRO - ZNZ 18/11/2026"
     }
   },
   "ZNZ_ow_data": {},
@@ -97,16 +97,16 @@
   },
   "SGN_PQC_rt_data": {
     "285811": {
-      "cena": 2149,
+      "cena": 2199,
       "nazwa": "Ho Chi Minh / Sajgon",
       "data": "16.11.2026",
       "flight": "Ho Chi Minh / Sajgon KTW - SGN 16/11/2026"
     },
-    "287564": {
-      "cena": 2499,
+    "287484": {
+      "cena": 2999,
       "nazwa": "Phu Quoc",
-      "data": "12.11.2026",
-      "flight": "Phu Quoc WAW - PQC 12/11/2026"
+      "data": "15.11.2026",
+      "flight": "Phu Quoc POZ - PQC 15/11/2026"
     }
   },
   "SGN_PQC_ow_data": {
@@ -116,11 +116,11 @@
       "data": "16.11.2026",
       "flight": "Ho Chi Minh / Sajgon KTW - SGN 16/11/2026"
     },
-    "287563": {
-      "cena": 2450,
+    "287482": {
+      "cena": 3099,
       "nazwa": "Phu Quoc",
-      "data": "12.11.2026",
-      "flight": "Phu Quoc WAW - PQC 12/11/2026"
+      "data": "15.11.2026",
+      "flight": "Phu Quoc POZ - PQC 15/11/2026"
     }
   },
   "PMV_rt_data": {},
