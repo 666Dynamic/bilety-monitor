@@ -1,7 +1,7 @@
 {
   "POP_rt_data": {
     "290013": {
-      "cena": 2499,
+      "cena": 1899,
       "nazwa": "Puerto Plata",
       "data": "16.11.2026",
       "flight": "Puerto Plata WAW - POP 16/11/2026"
@@ -65,19 +65,19 @@
   },
   "CMB_ow_data": {},
   "ZNZ_rt_data": {
-    "287078": {
+    "306023": {
       "cena": 3099,
       "nazwa": "Zanzibar",
       "data": "18.11.2026",
-      "flight": "Zanzibar POZ - ZNZ 18/11/2026"
+      "flight": "Zanzibar WRO - ZNZ 18/11/2026"
     }
   },
   "ZNZ_ow_data": {
-    "286915": {
+    "287000": {
       "cena": 3799,
       "nazwa": "Zanzibar",
       "data": "02.12.2026",
-      "flight": "Zanzibar KTW - ZNZ 02/12/2026"
+      "flight": "Zanzibar WAW - ZNZ 02/12/2026"
     }
   },
   "BKK_HKT_rt_data": {
