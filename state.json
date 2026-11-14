@@ -73,19 +73,19 @@
     }
   },
   "ZNZ_ow_data": {
-    "287000": {
+    "286915": {
       "cena": 3799,
       "nazwa": "Zanzibar",
       "data": "02.12.2026",
-      "flight": "Zanzibar WAW - ZNZ 02/12/2026"
+      "flight": "Zanzibar KTW - ZNZ 02/12/2026"
     }
   },
   "BKK_HKT_rt_data": {
-    "287933": {
-      "cena": 1950,
+    "287978": {
+      "cena": 2249,
       "nazwa": "Bangkok",
-      "data": "14.11.2026",
-      "flight": "Bangkok KTW - BKK 14/11/2026"
+      "data": "27.11.2026",
+      "flight": "Bangkok POZ - BKK 27/11/2026"
     },
     "285758": {
       "cena": 2950,
