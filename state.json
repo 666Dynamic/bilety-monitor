@@ -9,7 +9,7 @@
   },
   "POP_ow_data": {
     "290012": {
-      "cena": 1149,
+      "cena": 1299,
       "nazwa": "Puerto Plata",
       "data": "16.11.2026",
       "flight": "Puerto Plata WAW - POP 16/11/2026"
@@ -48,7 +48,7 @@
       "flight": "Puerto Vallarta KTW - PVR 14/01/2027"
     },
     "288520": {
-      "cena": 4599,
+      "cena": 2999,
       "nazwa": "Cancun",
       "data": "15.11.2026",
       "flight": "Cancun WAW - CUN 15/11/2026"
@@ -56,20 +56,20 @@
   },
   "CUN_PVR_ow_data": {},
   "CMB_rt_data": {
-    "287769": {
-      "cena": 1699,
+    "287813": {
+      "cena": 999,
       "nazwa": "Colombo",
       "data": "15.11.2026",
-      "flight": "Colombo POZ - CMB 15/11/2026"
+      "flight": "Colombo WAW - CMB 15/11/2026"
     }
   },
   "CMB_ow_data": {},
   "ZNZ_rt_data": {
-    "287078": {
+    "306023": {
       "cena": 3099,
       "nazwa": "Zanzibar",
       "data": "18.11.2026",
-      "flight": "Zanzibar POZ - ZNZ 18/11/2026"
+      "flight": "Zanzibar WRO - ZNZ 18/11/2026"
     }
   },
   "ZNZ_ow_data": {
@@ -88,7 +88,7 @@
       "flight": "Bangkok POZ - BKK 27/11/2026"
     },
     "285758": {
-      "cena": 2950,
+      "cena": 2500,
       "nazwa": "Phuket",
       "data": "17.11.2026",
       "flight": "Phuket WAW - HKT 17/11/2026"
@@ -110,24 +110,24 @@
       "flight": "Phu Quoc POZ - PQC 15/11/2026"
     },
     "285811": {
-      "cena": 2299,
+      "cena": 1999,
       "nazwa": "Ho Chi Minh / Sajgon",
       "data": "16.11.2026",
       "flight": "Ho Chi Minh / Sajgon KTW - SGN 16/11/2026"
     }
   },
   "SGN_PQC_ow_data": {
+    "285810": {
+      "cena": 1849,
+      "nazwa": "Ho Chi Minh / Sajgon",
+      "data": "16.11.2026",
+      "flight": "Ho Chi Minh / Sajgon KTW - SGN 16/11/2026"
+    },
     "287482": {
       "cena": 1899,
       "nazwa": "Phu Quoc",
       "data": "15.11.2026",
       "flight": "Phu Quoc POZ - PQC 15/11/2026"
-    },
-    "285810": {
-      "cena": 1999,
-      "nazwa": "Ho Chi Minh / Sajgon",
-      "data": "16.11.2026",
-      "flight": "Ho Chi Minh / Sajgon KTW - SGN 16/11/2026"
     }
   },
   "PMV_rt_data": {},
