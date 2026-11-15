@@ -103,8 +103,8 @@
     }
   },
   "SGN_PQC_rt_data": {
-    "285811": {
-      "cena": 2049,
+    "285812": {
+      "cena": 2400,
       "nazwa": "Ho Chi Minh / Sajgon",
       "data": "16.11.2026",
       "flight": "Ho Chi Minh / Sajgon KTW - SGN 16/11/2026"
@@ -118,7 +118,7 @@
   },
   "SGN_PQC_ow_data": {
     "285810": {
-      "cena": 1849,
+      "cena": 1899,
       "nazwa": "Ho Chi Minh / Sajgon",
       "data": "16.11.2026",
       "flight": "Ho Chi Minh / Sajgon KTW - SGN 16/11/2026"
