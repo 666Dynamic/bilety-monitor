@@ -1,10 +1,10 @@
 {
   "POP_rt_data": {
-    "290013": {
-      "cena": 1899,
+    "290029": {
+      "cena": 3999,
       "nazwa": "Puerto Plata",
-      "data": "16.11.2026",
-      "flight": "Puerto Plata WAW - POP 16/11/2026"
+      "data": "14.12.2026",
+      "flight": "Puerto Plata WAW - POP 14/12/2026"
     }
   },
   "POP_ow_data": {
@@ -17,7 +17,7 @@
   },
   "LIR_rt_data": {
     "309779": {
-      "cena": 3199,
+      "cena": 2999,
       "nazwa": "Liberia",
       "data": "19.11.2026",
       "flight": "Liberia KTW - LIR 19/11/2026"
@@ -65,33 +65,33 @@
   },
   "CMB_ow_data": {},
   "ZNZ_rt_data": {
-    "306023": {
-      "cena": 3099,
+    "287078": {
+      "cena": 2799,
       "nazwa": "Zanzibar",
       "data": "18.11.2026",
-      "flight": "Zanzibar WRO - ZNZ 18/11/2026"
+      "flight": "Zanzibar POZ - ZNZ 18/11/2026"
     }
   },
   "ZNZ_ow_data": {
-    "286915": {
+    "287000": {
       "cena": 3799,
       "nazwa": "Zanzibar",
       "data": "02.12.2026",
-      "flight": "Zanzibar KTW - ZNZ 02/12/2026"
+      "flight": "Zanzibar WAW - ZNZ 02/12/2026"
     }
   },
   "BKK_HKT_rt_data": {
-    "287978": {
-      "cena": 2249,
-      "nazwa": "Bangkok",
-      "data": "27.11.2026",
-      "flight": "Bangkok POZ - BKK 27/11/2026"
-    },
     "285758": {
-      "cena": 2500,
+      "cena": 2400,
       "nazwa": "Phuket",
       "data": "17.11.2026",
       "flight": "Phuket WAW - HKT 17/11/2026"
+    },
+    "287981": {
+      "cena": 2750,
+      "nazwa": "Bangkok",
+      "data": "04.12.2026",
+      "flight": "Bangkok POZ - BKK 04/12/2026"
     }
   },
   "BKK_HKT_ow_data": {
@@ -103,8 +103,8 @@
     }
   },
   "SGN_PQC_rt_data": {
-    "285812": {
-      "cena": 2400,
+    "285811": {
+      "cena": 1949,
       "nazwa": "Ho Chi Minh / Sajgon",
       "data": "16.11.2026",
       "flight": "Ho Chi Minh / Sajgon KTW - SGN 16/11/2026"
@@ -118,7 +118,7 @@
   },
   "SGN_PQC_ow_data": {
     "285810": {
-      "cena": 1899,
+      "cena": 1949,
       "nazwa": "Ho Chi Minh / Sajgon",
       "data": "16.11.2026",
       "flight": "Ho Chi Minh / Sajgon KTW - SGN 16/11/2026"
