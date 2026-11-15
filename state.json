@@ -1,18 +1,18 @@
 {
   "POP_rt_data": {
-    "290029": {
-      "cena": 3999,
-      "nazwa": "Puerto Plata",
-      "data": "14.12.2026",
-      "flight": "Puerto Plata WAW - POP 14/12/2026"
-    }
-  },
-  "POP_ow_data": {
-    "290012": {
-      "cena": 999,
+    "290013": {
+      "cena": 1999,
       "nazwa": "Puerto Plata",
       "data": "16.11.2026",
       "flight": "Puerto Plata WAW - POP 16/11/2026"
+    }
+  },
+  "POP_ow_data": {
+    "290024": {
+      "cena": 1399,
+      "nazwa": "Puerto Plata",
+      "data": "07.12.2026",
+      "flight": "Puerto Plata WAW - POP 07/12/2026"
     }
   },
   "LIR_rt_data": {
@@ -82,7 +82,7 @@
   },
   "BKK_HKT_rt_data": {
     "285758": {
-      "cena": 2400,
+      "cena": 2550,
       "nazwa": "Phuket",
       "data": "17.11.2026",
       "flight": "Phuket WAW - HKT 17/11/2026"
@@ -103,8 +103,8 @@
     }
   },
   "SGN_PQC_rt_data": {
-    "285811": {
-      "cena": 1949,
+    "285812": {
+      "cena": 2200,
       "nazwa": "Ho Chi Minh / Sajgon",
       "data": "16.11.2026",
       "flight": "Ho Chi Minh / Sajgon KTW - SGN 16/11/2026"
