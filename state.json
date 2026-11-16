@@ -1,15 +1,15 @@
 {
   "POP_rt_data": {
-    "290013": {
-      "cena": 1999,
+    "290017": {
+      "cena": 3399,
       "nazwa": "Puerto Plata",
-      "data": "16.11.2026",
-      "flight": "Puerto Plata WAW - POP 16/11/2026"
+      "data": "23.11.2026",
+      "flight": "Puerto Plata WAW - POP 23/11/2026"
     }
   },
   "POP_ow_data": {
     "290024": {
-      "cena": 1399,
+      "cena": 1549,
       "nazwa": "Puerto Plata",
       "data": "07.12.2026",
       "flight": "Puerto Plata WAW - POP 07/12/2026"
@@ -103,11 +103,11 @@
     }
   },
   "SGN_PQC_rt_data": {
-    "285812": {
-      "cena": 2200,
+    "285819": {
+      "cena": 2999,
       "nazwa": "Ho Chi Minh / Sajgon",
-      "data": "16.11.2026",
-      "flight": "Ho Chi Minh / Sajgon KTW - SGN 16/11/2026"
+      "data": "30.11.2026",
+      "flight": "Ho Chi Minh / Sajgon KTW - SGN 30/11/2026"
     },
     "287500": {
       "cena": 3049,
@@ -117,11 +117,11 @@
     }
   },
   "SGN_PQC_ow_data": {
-    "285810": {
-      "cena": 1949,
+    "285814": {
+      "cena": 2349,
       "nazwa": "Ho Chi Minh / Sajgon",
-      "data": "16.11.2026",
-      "flight": "Ho Chi Minh / Sajgon KTW - SGN 16/11/2026"
+      "data": "23.11.2026",
+      "flight": "Ho Chi Minh / Sajgon KTW - SGN 23/11/2026"
     },
     "287498": {
       "cena": 2949,
