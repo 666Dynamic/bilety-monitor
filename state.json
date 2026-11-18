@@ -1,7 +1,7 @@
 {
   "POP_rt_data": {
     "290017": {
-      "cena": 2099,
+      "cena": 2399,
       "nazwa": "Puerto Plata",
       "data": "23.11.2026",
       "flight": "Puerto Plata WAW - POP 23/11/2026"
@@ -32,26 +32,26 @@
     }
   },
   "PEN_rt_data": {
-    "286280": {
-      "cena": 1799,
+    "286284": {
+      "cena": 2049,
       "nazwa": "Penang",
-      "data": "18.11.2026",
-      "flight": "Penang WAW - PEN 18/11/2026"
+      "data": "25.11.2026",
+      "flight": "Penang WAW - PEN 25/11/2026"
     }
   },
   "PEN_ow_data": {},
   "CUN_PVR_rt_data": {
-    "288503": {
-      "cena": 1849,
-      "nazwa": "Cancun",
-      "data": "18.11.2026",
-      "flight": "Cancun KTW - CUN 18/11/2026"
-    },
     "283714": {
       "cena": 2849,
       "nazwa": "Puerto Vallarta",
       "data": "14.01.2027",
       "flight": "Puerto Vallarta KTW - PVR 14/01/2027"
+    },
+    "288525": {
+      "cena": 5499,
+      "nazwa": "Cancun",
+      "data": "29.11.2026",
+      "flight": "Cancun WAW - CUN 29/11/2026"
     }
   },
   "CUN_PVR_ow_data": {},
@@ -131,7 +131,7 @@
       "flight": "Ho Chi Minh / Sajgon KTW - SGN 23/11/2026"
     },
     "287567": {
-      "cena": 2449,
+      "cena": 2399,
       "nazwa": "Phu Quoc",
       "data": "19.11.2026",
       "flight": "Phu Quoc WAW - PQC 19/11/2026"
