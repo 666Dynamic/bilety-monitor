@@ -16,19 +16,19 @@
     }
   },
   "LIR_rt_data": {
-    "309779": {
-      "cena": 1999,
+    "305924": {
+      "cena": 2499,
       "nazwa": "Liberia",
-      "data": "19.11.2026",
-      "flight": "Liberia KTW - LIR 19/11/2026"
+      "data": "26.11.2026",
+      "flight": "Liberia KTW - LIR 26/11/2026"
     }
   },
   "LIR_ow_data": {
-    "319678": {
-      "cena": 999,
+    "307312": {
+      "cena": 1299,
       "nazwa": "Liberia",
-      "data": "19.11.2026",
-      "flight": "Liberia KTW - LIR 19/11/2026"
+      "data": "10.12.2026",
+      "flight": "Liberia KTW - LIR 10/12/2026"
     }
   },
   "PEN_rt_data": {
@@ -72,19 +72,19 @@
     }
   },
   "ZNZ_rt_data": {
-    "287094": {
+    "286924": {
       "cena": 4099,
       "nazwa": "Zanzibar",
       "data": "16.12.2026",
-      "flight": "Zanzibar POZ - ZNZ 16/12/2026"
+      "flight": "Zanzibar KTW - ZNZ 16/12/2026"
     }
   },
   "ZNZ_ow_data": {
-    "287081": {
+    "286996": {
       "cena": 1199,
       "nazwa": "Zanzibar",
       "data": "25.11.2026",
-      "flight": "Zanzibar POZ - ZNZ 25/11/2026"
+      "flight": "Zanzibar WAW - ZNZ 25/11/2026"
     }
   },
   "BKK_HKT_rt_data": {
@@ -110,31 +110,31 @@
     }
   },
   "SGN_PQC_rt_data": {
-    "287568": {
-      "cena": 1999,
-      "nazwa": "Phu Quoc",
-      "data": "19.11.2026",
-      "flight": "Phu Quoc WAW - PQC 19/11/2026"
-    },
     "285815": {
       "cena": 2149,
       "nazwa": "Ho Chi Minh / Sajgon",
       "data": "23.11.2026",
       "flight": "Ho Chi Minh / Sajgon KTW - SGN 23/11/2026"
+    },
+    "287500": {
+      "cena": 3399,
+      "nazwa": "Phu Quoc",
+      "data": "13.12.2026",
+      "flight": "Phu Quoc POZ - PQC 13/12/2026"
     }
   },
   "SGN_PQC_ow_data": {
-    "287567": {
-      "cena": 1949,
-      "nazwa": "Phu Quoc",
-      "data": "19.11.2026",
-      "flight": "Phu Quoc WAW - PQC 19/11/2026"
-    },
     "285814": {
       "cena": 1999,
       "nazwa": "Ho Chi Minh / Sajgon",
       "data": "23.11.2026",
       "flight": "Ho Chi Minh / Sajgon KTW - SGN 23/11/2026"
+    },
+    "287498": {
+      "cena": 3299,
+      "nazwa": "Phu Quoc",
+      "data": "13.12.2026",
+      "flight": "Phu Quoc POZ - PQC 13/12/2026"
     }
   },
   "PMV_rt_data": {},
