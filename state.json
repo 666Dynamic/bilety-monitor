@@ -24,11 +24,11 @@
     }
   },
   "LIR_ow_data": {
-    "309774": {
+    "307312": {
       "cena": 799,
       "nazwa": "Liberia",
-      "data": "26.11.2026",
-      "flight": "Liberia KTW - LIR 26/11/2026"
+      "data": "10.12.2026",
+      "flight": "Liberia KTW - LIR 10/12/2026"
     }
   },
   "PEN_rt_data": {
@@ -55,19 +55,19 @@
     }
   },
   "CUN_PVR_ow_data": {
-    "323409": {
+    "323407": {
       "cena": 1500,
       "nazwa": "Cancun",
-      "data": "29.11.2026",
-      "flight": "Cancun WAW - CUN 29/11/2026"
+      "data": "25.11.2026",
+      "flight": "Cancun KTW - CUN 25/11/2026"
     }
   },
   "CMB_rt_data": {
-    "287728": {
-      "cena": 1849,
+    "287772": {
+      "cena": 1699,
       "nazwa": "Colombo",
       "data": "26.11.2026",
-      "flight": "Colombo KTW - CMB 26/11/2026"
+      "flight": "Colombo POZ - CMB 26/11/2026"
     }
   },
   "CMB_ow_data": {},
