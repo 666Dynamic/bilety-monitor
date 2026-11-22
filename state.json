@@ -1,7 +1,7 @@
 {
   "POP_rt_data": {
     "290017": {
-      "cena": 2099,
+      "cena": 1999,
       "nazwa": "Puerto Plata",
       "data": "23.11.2026",
       "flight": "Puerto Plata WAW - POP 23/11/2026"
@@ -9,7 +9,7 @@
   },
   "POP_ow_data": {
     "290024": {
-      "cena": 1499,
+      "cena": 1649,
       "nazwa": "Puerto Plata",
       "data": "07.12.2026",
       "flight": "Puerto Plata WAW - POP 07/12/2026"
@@ -24,11 +24,11 @@
     }
   },
   "LIR_ow_data": {
-    "307312": {
+    "309774": {
       "cena": 799,
       "nazwa": "Liberia",
-      "data": "10.12.2026",
-      "flight": "Liberia KTW - LIR 10/12/2026"
+      "data": "26.11.2026",
+      "flight": "Liberia KTW - LIR 26/11/2026"
     }
   },
   "PEN_rt_data": {
@@ -63,11 +63,11 @@
     }
   },
   "CMB_rt_data": {
-    "287772": {
+    "287728": {
       "cena": 1849,
       "nazwa": "Colombo",
       "data": "26.11.2026",
-      "flight": "Colombo POZ - CMB 26/11/2026"
+      "flight": "Colombo KTW - CMB 26/11/2026"
     }
   },
   "CMB_ow_data": {},
