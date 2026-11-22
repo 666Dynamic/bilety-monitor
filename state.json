@@ -1,7 +1,7 @@
 {
   "POP_rt_data": {
     "290017": {
-      "cena": 2299,
+      "cena": 2099,
       "nazwa": "Puerto Plata",
       "data": "23.11.2026",
       "flight": "Puerto Plata WAW - POP 23/11/2026"
@@ -41,25 +41,25 @@
   },
   "PEN_ow_data": {},
   "CUN_PVR_rt_data": {
-    "288522": {
-      "cena": 2049,
-      "nazwa": "Cancun",
-      "data": "22.11.2026",
-      "flight": "Cancun WAW - CUN 22/11/2026"
-    },
     "283710": {
       "cena": 3199,
       "nazwa": "Puerto Vallarta",
       "data": "17.12.2026",
       "flight": "Puerto Vallarta KTW - PVR 17/12/2026"
-    }
-  },
-  "CUN_PVR_ow_data": {
-    "323407": {
-      "cena": 1500,
+    },
+    "288505": {
+      "cena": 4899,
       "nazwa": "Cancun",
       "data": "25.11.2026",
       "flight": "Cancun KTW - CUN 25/11/2026"
+    }
+  },
+  "CUN_PVR_ow_data": {
+    "323409": {
+      "cena": 1500,
+      "nazwa": "Cancun",
+      "data": "29.11.2026",
+      "flight": "Cancun WAW - CUN 29/11/2026"
     }
   },
   "CMB_rt_data": {
@@ -80,11 +80,11 @@
     }
   },
   "ZNZ_ow_data": {
-    "287081": {
+    "286996": {
       "cena": 999,
       "nazwa": "Zanzibar",
       "data": "25.11.2026",
-      "flight": "Zanzibar POZ - ZNZ 25/11/2026"
+      "flight": "Zanzibar WAW - ZNZ 25/11/2026"
     }
   },
   "BKK_HKT_rt_data": {
@@ -116,25 +116,25 @@
       "data": "23.11.2026",
       "flight": "Ho Chi Minh / Sajgon KTW - SGN 23/11/2026"
     },
-    "287487": {
-      "cena": 1999,
+    "287500": {
+      "cena": 3399,
       "nazwa": "Phu Quoc",
-      "data": "22.11.2026",
-      "flight": "Phu Quoc POZ - PQC 22/11/2026"
+      "data": "13.12.2026",
+      "flight": "Phu Quoc POZ - PQC 13/12/2026"
     }
   },
   "SGN_PQC_ow_data": {
-    "285822": {
-      "cena": 2599,
+    "285814": {
+      "cena": 1949,
       "nazwa": "Ho Chi Minh / Sajgon",
-      "data": "07.12.2026",
-      "flight": "Ho Chi Minh / Sajgon KTW - SGN 07/12/2026"
+      "data": "23.11.2026",
+      "flight": "Ho Chi Minh / Sajgon KTW - SGN 23/11/2026"
     },
-    "287486": {
-      "cena": 2949,
+    "287498": {
+      "cena": 3299,
       "nazwa": "Phu Quoc",
-      "data": "22.11.2026",
-      "flight": "Phu Quoc POZ - PQC 22/11/2026"
+      "data": "13.12.2026",
+      "flight": "Phu Quoc POZ - PQC 13/12/2026"
     }
   },
   "PMV_rt_data": {},
