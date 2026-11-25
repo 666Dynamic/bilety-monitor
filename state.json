@@ -32,11 +32,11 @@
     }
   },
   "PEN_rt_data": {
-    "286288": {
-      "cena": 2149,
+    "286293": {
+      "cena": 2549,
       "nazwa": "Penang",
-      "data": "02.12.2026",
-      "flight": "Penang WAW - PEN 02/12/2026"
+      "data": "09.12.2026",
+      "flight": "Penang WAW - PEN 09/12/2026"
     }
   },
   "PEN_ow_data": {},
@@ -72,11 +72,11 @@
   },
   "CMB_ow_data": {},
   "ZNZ_rt_data": {
-    "286916": {
+    "287086": {
       "cena": 4049,
       "nazwa": "Zanzibar",
       "data": "02.12.2026",
-      "flight": "Zanzibar KTW - ZNZ 02/12/2026"
+      "flight": "Zanzibar POZ - ZNZ 02/12/2026"
     }
   },
   "ZNZ_ow_data": {
@@ -88,17 +88,17 @@
     }
   },
   "BKK_HKT_rt_data": {
+    "287978": {
+      "cena": 2049,
+      "nazwa": "Bangkok",
+      "data": "27.11.2026",
+      "flight": "Bangkok POZ - BKK 27/11/2026"
+    },
     "285724": {
       "cena": 2249,
       "nazwa": "Phuket",
       "data": "27.11.2026",
       "flight": "Phuket KTW - HKT 27/11/2026"
-    },
-    "287978": {
-      "cena": 2349,
-      "nazwa": "Bangkok",
-      "data": "27.11.2026",
-      "flight": "Bangkok POZ - BKK 27/11/2026"
     }
   },
   "BKK_HKT_ow_data": {
@@ -110,14 +110,14 @@
     }
   },
   "SGN_PQC_rt_data": {
-    "285820": {
-      "cena": 2699,
+    "285819": {
+      "cena": 2449,
       "nazwa": "Ho Chi Minh / Sajgon",
       "data": "30.11.2026",
       "flight": "Ho Chi Minh / Sajgon KTW - SGN 30/11/2026"
     },
-    "287572": {
-      "cena": 2949,
+    "287573": {
+      "cena": 2699,
       "nazwa": "Phu Quoc",
       "data": "26.11.2026",
       "flight": "Phu Quoc WAW - PQC 26/11/2026"
@@ -125,13 +125,13 @@
   },
   "SGN_PQC_ow_data": {
     "285818": {
-      "cena": 2449,
+      "cena": 2149,
       "nazwa": "Ho Chi Minh / Sajgon",
       "data": "30.11.2026",
       "flight": "Ho Chi Minh / Sajgon KTW - SGN 30/11/2026"
     },
     "287571": {
-      "cena": 2899,
+      "cena": 2650,
       "nazwa": "Phu Quoc",
       "data": "26.11.2026",
       "flight": "Phu Quoc WAW - PQC 26/11/2026"
