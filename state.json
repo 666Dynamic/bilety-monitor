@@ -32,34 +32,34 @@
     }
   },
   "PEN_rt_data": {
-    "286285": {
-      "cena": 1799,
+    "286288": {
+      "cena": 2149,
       "nazwa": "Penang",
-      "data": "25.11.2026",
-      "flight": "Penang WAW - PEN 25/11/2026"
+      "data": "02.12.2026",
+      "flight": "Penang WAW - PEN 02/12/2026"
     }
   },
   "PEN_ow_data": {},
   "CUN_PVR_rt_data": {
-    "288505": {
-      "cena": 1999,
-      "nazwa": "Cancun",
-      "data": "25.11.2026",
-      "flight": "Cancun KTW - CUN 25/11/2026"
-    },
     "283710": {
       "cena": 3199,
       "nazwa": "Puerto Vallarta",
       "data": "17.12.2026",
       "flight": "Puerto Vallarta KTW - PVR 17/12/2026"
+    },
+    "288525": {
+      "cena": 5499,
+      "nazwa": "Cancun",
+      "data": "29.11.2026",
+      "flight": "Cancun WAW - CUN 29/11/2026"
     }
   },
   "CUN_PVR_ow_data": {
-    "323407": {
+    "323441": {
       "cena": 1500,
       "nazwa": "Cancun",
-      "data": "25.11.2026",
-      "flight": "Cancun KTW - CUN 25/11/2026"
+      "data": "02.12.2026",
+      "flight": "Cancun KTW - CUN 02/12/2026"
     }
   },
   "CMB_rt_data": {
@@ -72,19 +72,19 @@
   },
   "CMB_ow_data": {},
   "ZNZ_rt_data": {
-    "286913": {
-      "cena": 2999,
+    "286916": {
+      "cena": 4049,
       "nazwa": "Zanzibar",
-      "data": "25.11.2026",
-      "flight": "Zanzibar KTW - ZNZ 25/11/2026"
+      "data": "02.12.2026",
+      "flight": "Zanzibar KTW - ZNZ 02/12/2026"
     }
   },
   "ZNZ_ow_data": {
-    "286996": {
-      "cena": 999,
+    "305986": {
+      "cena": 2999,
       "nazwa": "Zanzibar",
-      "data": "25.11.2026",
-      "flight": "Zanzibar WAW - ZNZ 25/11/2026"
+      "data": "02.12.2026",
+      "flight": "Zanzibar WRO - ZNZ 02/12/2026"
     }
   },
   "BKK_HKT_rt_data": {
