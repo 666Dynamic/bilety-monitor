@@ -1,7 +1,7 @@
 {
   "POP_rt_data": {
     "290021": {
-      "cena": 2499,
+      "cena": 2199,
       "nazwa": "Puerto Plata",
       "data": "30.11.2026",
       "flight": "Puerto Plata WAW - POP 30/11/2026"
@@ -32,11 +32,11 @@
     }
   },
   "PEN_rt_data": {
-    "286288": {
-      "cena": 2249,
+    "286293": {
+      "cena": 2549,
       "nazwa": "Penang",
-      "data": "02.12.2026",
-      "flight": "Penang WAW - PEN 02/12/2026"
+      "data": "09.12.2026",
+      "flight": "Penang WAW - PEN 09/12/2026"
     }
   },
   "PEN_ow_data": {},
@@ -55,11 +55,11 @@
     }
   },
   "CUN_PVR_ow_data": {
-    "323441": {
+    "323409": {
       "cena": 1500,
       "nazwa": "Cancun",
-      "data": "02.12.2026",
-      "flight": "Cancun KTW - CUN 02/12/2026"
+      "data": "29.11.2026",
+      "flight": "Cancun WAW - CUN 29/11/2026"
     }
   },
   "CMB_rt_data": {
@@ -72,11 +72,11 @@
   },
   "CMB_ow_data": {},
   "ZNZ_rt_data": {
-    "287001": {
-      "cena": 4049,
+    "286916": {
+      "cena": 3849,
       "nazwa": "Zanzibar",
       "data": "02.12.2026",
-      "flight": "Zanzibar WAW - ZNZ 02/12/2026"
+      "flight": "Zanzibar KTW - ZNZ 02/12/2026"
     }
   },
   "ZNZ_ow_data": {
@@ -111,21 +111,21 @@
   },
   "SGN_PQC_rt_data": {
     "285819": {
-      "cena": 2449,
+      "cena": 2149,
       "nazwa": "Ho Chi Minh / Sajgon",
       "data": "30.11.2026",
       "flight": "Ho Chi Minh / Sajgon KTW - SGN 30/11/2026"
     },
-    "287515": {
-      "cena": 3899,
+    "287495": {
+      "cena": 3750,
       "nazwa": "Phu Quoc",
-      "data": "10.01.2027",
-      "flight": "Phu Quoc POZ - PQC 10/01/2027"
+      "data": "06.12.2026",
+      "flight": "Phu Quoc POZ - PQC 06/12/2026"
     }
   },
   "SGN_PQC_ow_data": {
     "285818": {
-      "cena": 2349,
+      "cena": 2149,
       "nazwa": "Ho Chi Minh / Sajgon",
       "data": "30.11.2026",
       "flight": "Ho Chi Minh / Sajgon KTW - SGN 30/11/2026"
