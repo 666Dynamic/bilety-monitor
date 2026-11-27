@@ -1,7 +1,7 @@
 {
   "POP_rt_data": {
     "290021": {
-      "cena": 2199,
+      "cena": 2799,
       "nazwa": "Puerto Plata",
       "data": "30.11.2026",
       "flight": "Puerto Plata WAW - POP 30/11/2026"
@@ -32,11 +32,11 @@
     }
   },
   "PEN_rt_data": {
-    "286293": {
-      "cena": 2599,
+    "286288": {
+      "cena": 1999,
       "nazwa": "Penang",
-      "data": "09.12.2026",
-      "flight": "Penang WAW - PEN 09/12/2026"
+      "data": "02.12.2026",
+      "flight": "Penang WAW - PEN 02/12/2026"
     }
   },
   "PEN_ow_data": {},
@@ -55,16 +55,16 @@
     }
   },
   "CUN_PVR_ow_data": {
-    "323441": {
+    "323409": {
       "cena": 1500,
       "nazwa": "Cancun",
-      "data": "02.12.2026",
-      "flight": "Cancun KTW - CUN 02/12/2026"
+      "data": "29.11.2026",
+      "flight": "Cancun WAW - CUN 29/11/2026"
     }
   },
   "CMB_rt_data": {
     "287775": {
-      "cena": 2399,
+      "cena": 2249,
       "nazwa": "Colombo",
       "data": "06.12.2026",
       "flight": "Colombo POZ - CMB 06/12/2026"
@@ -73,7 +73,7 @@
   "CMB_ow_data": {},
   "ZNZ_rt_data": {
     "287001": {
-      "cena": 3849,
+      "cena": 3599,
       "nazwa": "Zanzibar",
       "data": "02.12.2026",
       "flight": "Zanzibar WAW - ZNZ 02/12/2026"
@@ -88,11 +88,11 @@
     }
   },
   "BKK_HKT_rt_data": {
-    "287994": {
-      "cena": 2599,
+    "287992": {
+      "cena": 2749,
       "nazwa": "Bangkok",
-      "data": "22.01.2027",
-      "flight": "Bangkok POZ - BKK 22/01/2027"
+      "data": "15.01.2027",
+      "flight": "Bangkok POZ - BKK 15/01/2027"
     },
     "285762": {
       "cena": 2849,
@@ -111,16 +111,16 @@
   },
   "SGN_PQC_rt_data": {
     "285819": {
-      "cena": 1949,
+      "cena": 2199,
       "nazwa": "Ho Chi Minh / Sajgon",
       "data": "30.11.2026",
       "flight": "Ho Chi Minh / Sajgon KTW - SGN 30/11/2026"
     },
-    "287495": {
-      "cena": 3750,
+    "287491": {
+      "cena": 3450,
       "nazwa": "Phu Quoc",
-      "data": "06.12.2026",
-      "flight": "Phu Quoc POZ - PQC 06/12/2026"
+      "data": "29.11.2026",
+      "flight": "Phu Quoc POZ - PQC 29/11/2026"
     }
   },
   "SGN_PQC_ow_data": {
